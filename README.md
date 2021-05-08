@@ -1,12 +1,5 @@
-### Hi there 👋
-
-
-
-
-
 ###  I'm Not Batman
-#### Sou apenas um amante de tecnologia e designer
-!
+#### Sou apenas um amante de tecnologia e designer!
 
 Sou apenas uma pessoa exploradora que busca novos conhecimentos, e nessa jornada me encantei pelo glamour do Designer. 
 Porem com os dias meses e anos nessa jornada começo a trilhar os passos para um desenvolvedor.
